@@ -1,4 +1,4 @@
-o#!/usr/bin/env bash
+#!/usr/bin/env bash
 #starts stop restart script depending on the argument pass
 if [ "${1}" == "start" ]
 then
